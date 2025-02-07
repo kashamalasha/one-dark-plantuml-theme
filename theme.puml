@@ -4,7 +4,8 @@
 ' One Dark theme
 '
 
-!define ERROR_COLOR #maroon
+!define ERROR_COLOR #Maroon
+!define COLOR_ERROR #Maroon
 
 '
 ' Colors
